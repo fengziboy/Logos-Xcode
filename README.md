@@ -7,7 +7,7 @@ Logos-Xcode brings Logos Syntax Hightlight to Xcode (tested on 9.4).
 1 - Clone this repo `git clone https://github.com/pr0crustes/Logos-Xcode` to any place you want.  
 2 - Cd to the folder with `cd Logos-Xcode`.  
 3 - Assert that Xcode is completed terminated.  
-4 - To create `Logos.xclangspec`, run `python(3) xclangspec_generator.py`.  
+4 - Rename `Logos.xc` to `Logos.xclangspec`, run `python(3) xclangspec_generator.py`.  
 5 - Run `chmod +x install.sh`, in order to give execution rights.  
 6 - Run `sudo ./install.sh`, to run the installation script.  
 7 - The script should explain itself, just follow the instructions.  
@@ -17,6 +17,7 @@ To be honest, I hate when a script can only be run as root (security reasons), b
 You do not need to trust my word, since all the code is open source and I suggest everyone to read.  
   
 ## Images
+Select Editor -> Syntax Coloring -> Logos on the menu.
 ![SS showing autocompletion0](imgs/SS_import.png)
 ![SS showing autocompletion1](imgs/SS_hook.png)
 ![SS showing autocompletion2](imgs/SS_live.png)
