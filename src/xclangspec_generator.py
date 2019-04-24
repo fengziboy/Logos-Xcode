@@ -85,8 +85,7 @@ class XClangGenerator(object):
 
 if __name__ == '__main__':
 
-     os.rename("Logos.xc", "Logos.xclangspec")
-
-    # gen = XClangGenerator()
-    # gen.execute()
+    os.rename("Logos.xc", "Logos.xclangspec")
+    gen = XClangGenerator()
+    gen.execute()
 
