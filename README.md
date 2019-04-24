@@ -1,6 +1,6 @@
 # Logos-Xcode 
 #### Logos Syntax Highlight in Xcode 
-Logos-Xcode brings Logos Syntax Hightlight to Xcode (tested on 9.4). 
+Logos-Xcode brings Logos Syntax Hightlight to Xcode (tested on 9.4 and 10.1). 
   
 ## How To Install
 0 - You should make a backup of the folder `/Applications/Xcode.app/Contents/SharedFrameworks/DVTFoundation.framework/Versions/A/Resources`  
