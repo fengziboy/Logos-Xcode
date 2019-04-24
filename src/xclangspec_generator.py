@@ -8,7 +8,7 @@
 # pr0crustes @ 2018 - all rights reserved.
 #
 '''
-
+import os
 
 global_new_keywords = [
     "// Start Logos Keywords",
@@ -85,6 +85,8 @@ class XClangGenerator(object):
 
 if __name__ == '__main__':
 
-    gen = XClangGenerator()
-    gen.execute()
+     os.rename("Logos.xc", "Logos.xclangspec")
+
+    # gen = XClangGenerator()
+    # gen.execute()
 
