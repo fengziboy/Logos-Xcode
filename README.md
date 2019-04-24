@@ -20,7 +20,7 @@ You do not need to trust my word, since all the code is open source and I sugges
 Select Editor -> Syntax Coloring -> Logos on the menu.
 ![SS showing autocompletion0](imgs/SS_import.png)
 ![SS showing autocompletion1](imgs/SS_hook.png)
-![SS showing autocompletion2](imgs/SS_live.png)
+![SS showing autocompletion2](imgs/SS_Live.png)
 ![SS showing autocompletion3](imgs/SS_end.png)
 ![SS showing autocompletion1](imgs/SS_c.png)
   
